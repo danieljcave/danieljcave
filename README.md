@@ -61,3 +61,17 @@ My Personal porfolio webiste is under development currently [Link](https://danie
         <a href="https://github.com/danieljcave/inphysical-website">
         <img src="https://img.shields.io/badge/Repo Link-InPhysical Website-blue"></a>
     </details>
+
+## Tools & Technologies
+### Languages
+![HTML](https://img.shields.io/badge/HTML-Language-orange?style=for-the-badge&logo=html5&logoColor=e34c26&color=e34c26)
+![CSS](https://img.shields.io/badge/CSS-Language-orange?style=for-the-badge&logo=css3&logoColor=2965f1&color=2965f1)
+![Javascript](https://img.shields.io/badge/Javascript-Language-orange?style=for-the-badge&logo=javascript&logoColor=f0db4f&color=f0db4f)
+![Python](https://img.shields.io/badge/Python-Language-orange?style=for-the-badge&logo=python&logoColor=4584B6&color=4584B6)
+
+### LIBRARIES & FRAMEWORKS
+![Django](https://img.shields.io/badge/Django-Framework-blueviolet?style=for-the-badge&logo=django&logoColor=092e20&color=092e20)
+![Flask](https://img.shields.io/badge/Flask-Framework-blueviolet?style=for-the-badge&logo=flask&logoColor=092e20&color=092e20)
+![React](https://img.shields.io/badge/React_(Learning)-Library-blueviolet?style=for-the-badge&logo=react&logoColor=61DBFB&color=61DBFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Library-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=6f42c1&color=6f42c1)
+![JQuery](https://img.shields.io/badge/JQuery-Library-blueviolet?style=for-the-badge&logo=jquery&logoColor=0769ad&color=0769ad)
