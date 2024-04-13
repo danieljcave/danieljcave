@@ -15,4 +15,49 @@ My Personal porfolio webiste is under development currently [Link](https://danie
 <h3>CDS Car Keys</h3>
     <details>
         <summary>Click to Open Project Details!</summary>
+        <br>
+        <p><b>Languages Used:</b> HTML, CSS, Javascript, Python</p>
+        <p>CDS Car Keys is a B2C & B2B E-Commerce application which sells Car keys blanks and keys directly to the end customers and business.</p>
+        <a href="https://github.com/danieljcave/p5-cds-car-keys">
+        <img src="https://img.shields.io/badge/Repo Link-CDS Car Keys-blue"></a>
+    </details>
+
+<h3>InPhysical Plans</h3>
+    <details>
+        <summary>Click to Open Project Details!</summary>
+        <br>
+        <p><b>Languages Used:</b> HTML, CSS, Javascript, Python</p>
+        <p>InPhysical Plans is a training blog that allows both users and trainer to post their training plans and interact with other users.</p>
+        <a href="https://github.com/danieljcave/inphysical-plans">
+        <img src="https://img.shields.io/badge/Repo Link-InPhysical Plans-blue"></a>
+    </details>
+
+<h3>Cave's Battleships</h3>
+    <details>
+        <summary>Click to Open Project Details!</summary>
+        <br>
+        <p><b>Languages Used:</b> HTML, CSS, Python</p>
+        <p>Battleships is a fully designed back-end Python-based terminal game which has been created and running on a terminal.</p>
+        <a href="https://github.com/danieljcave/p3-battleship">
+        <img src="https://img.shields.io/badge/Repo Link-Cave's Battleships-blue"></a>
+    </details>
+
+<h3>InPhysical Quiz</h3>
+    <details>
+        <summary>Click to Open Project Details!</summary>
+        <br>
+        <p><b>Languages Used:</b> HTML, CSS, Javascript</p>
+        <p>InPhysical quiz is designed as a functional game but to also educate the users on the body and exercise.</p>
+        <a href="https://github.com/danieljcave/inphysical-quiz">
+        <img src="https://img.shields.io/badge/Repo Link-InPhysical Quiz-blue"></a>
+    </details>
+
+<h3>InPhysical Website</h3>
+    <details>
+        <summary>Click to Open Project Details!</summary>
+        <br>
+        <p><b>Languages Used:</b> HTML, CSS</p>
+        <p>InPhysical website is a website created to provide free workout plans for the public. All plans are created by a fully qualified personal trainer.</p>
+        <a href="https://github.com/danieljcave/inphysical-website">
+        <img src="https://img.shields.io/badge/Repo Link-InPhysical Website-blue"></a>
     </details>
