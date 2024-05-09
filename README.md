@@ -10,7 +10,7 @@ My name is <strong>Dan</strong>iel Cave and I'm a Junior Full Stack Software Dev
 - Have three loves, Gym, Golf and my dog, Milo, [here](/assets/IMG_1143.png) he is!
 
 ## My Portfolio
-My Personal porfolio webiste is under development currently [Link](https://danielcave.co.uk/) 
+If you would like to learn more about me or contact myself. Please take a look at my [website](https://danielcave.co.uk/) 
 
 <h3>CDS Car Keys</h3>
     <details>
